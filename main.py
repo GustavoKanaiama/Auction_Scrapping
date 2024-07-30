@@ -50,6 +50,6 @@ time.sleep(2)
 #Fecha o driver
 driver.quit()
 
-pre_filtro(f'{os.getcwd()}\Lista_imoveis\Lista_imoveis_SP.csv')
+#pre_filtro(f'{os.getcwd()}\Lista_imoveis\Lista_imoveis_SP.csv')
 
 
