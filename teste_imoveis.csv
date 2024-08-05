@@ -1,7 +1,65 @@
 , N° do imóvel,UF,Cidade,Bairro,Endereço,Preço,Valor de avaliação,Desconto,Descrição,Modalidade de venda,Link de acesso,Tipo de Lugar,Area Total,Area Privativa,Area do Terreno,Quartos,Garagem,Sala,Descrição Extra,Data 2º Leilão,Valor de venda 2º Leilão,Financiamento,Distância [km]
-346,8787705056981.0,SP ,BOTUCATU ,VILA JULIANA ,"AVENIDA ITALIA, N. 298, Apto 503, BLOCO 10 ","117.048,91","125.000,00",6.37,"Apartamento, 0.00 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8787705056981,Apartamento,0.00,39.30,0.00,2,1,1," FINANCIAMENTO (consulte condições).
+320,8787705187202.0,SP ,BIRIGUI ,PATRIMONIO SANTO ANTONIO ,"VIA DE ACESSO A, N. SN, Apto 303, BL 9 ","154.000,00","154.000,00",0.0,"Apartamento, 0.00 de área total, 43.99 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8787705187202,Apartamento,0.00,43.99,0.00,2,1,1," FINANCIAMENTO (consulte condições).
 Imóvel NÃO aceita parcelamento.
-Imóvel NÃO aceita consórcio.",30/07/2024 - 10h00,"117.048,91",1,234.64
+Imóvel NÃO aceita consórcio.",23/08/2024 - 10h00,"130.135,70",1,518.8
+321,8787701620793.0,SP ,BIRIGUI ,VILA GIAMPIETRO ,"VIA DE ACESSO A, N. SN, Apto 402,  BL 02 ","130.000,00","130.000,00",0.0,"Apartamento, 0.00 de área total, 39.30 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8787701620793,Apartamento,0.00,39.30,0.00,2,1,0," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",10/09/2024 - 10h00,"101.528,60",1,518.8
+322,8787704178552.0,SP ,BIRIGUI ,VILA GIAMPIETRO ,"RUA ARMANDO DELLE ANTIGA VIA DE ACESSO A, N. 77, Apto 303, BL 24 ","146.000,00","146.000,00",0.0,"Apartamento, 0.00 de área total, 43.99 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8787704178552,Apartamento,0.00,43.99,0.00,2,1,1," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",02/09/2024 - 10h00,"97.959,73",1,518.8
+323,8555538373159.0,SP ,BIRIGUI ,RESIDENCIAL MANUELA ,"RUA SANTO MAMPRIM, N. 650, Apto 414, BL  400 ","175.000,00","175.000,00",0.0,"Apartamento, 87.70 de área total, 0.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8555538373159,Apartamento,87.70,0.00,0.00,2,1,1," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",16/08/2024 - 10h00,"119.623,68",1,518.8
+324,1555535157279.0,SP ,BIRIGUI ,PARQUE RESIDENCIAL LALUCE II ,"RUA ROMAO LUIZ GARCIA, N. 71, Apto 102, TORRE 1 ","228.000,00","228.000,00",0.0,"Apartamento, 0.00 de área total, 63.51 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=1555535157279,Apartamento,0.00,63.51,0.00,1,1,1," Imóvel NÃO aceita utilização de FGTS.
+ FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.
+ Imóvel com ação judicial: 10002314620188260077.",24/09/2024 - 10h00,"136.800,00",1,518.8
+325,8444423446356.0,SP ,BIRIGUI ,RESIDENCIAL ACAPULCO ,"RUA BEATRIZ LOPES STABILLE, N. SN, LT 24 QD O ","112.471,36","40.000,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 125.31 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444423446356,Terreno,0.00,0.00,125.31,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",16/09/2024 - 10h00,"51.475,70",1,518.8
+326,8444426793316.0,SP ,BIRIGUI ,JARDIM MONTE CARLO ,"R JOSE ANGELINO, N. SN, LT 10 Q E ","169.641,28","58.000,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 125.50 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444426793316,Terreno,0.00,0.00,125.50,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ Imóvel NÃO aceita financiamento habitacional.
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",18/09/2024 - 10h00,"64.556,09",0,518.8
+327,8444422487237.0,SP ,BOA ESPERANCA DO SUL ,CENTRO ,"RUA  ROBERTO GONCALVES ANTIGA RUA 15, N. SN, LT 29 QD P ","119.561,24","50.000,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 165.00 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444422487237,Terreno,0.00,0.00,165.00,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",23/08/2024 - 10h00,"49.732,49",1,291.89
+328,8444422478440.0,SP ,BOA ESPERANCA DO SUL ,RES FRANCISCO MALAGO ,"R 12, N. SN, . ","149.722,27","53.000,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 165.00 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444422478440,Terreno,0.00,0.00,165.00,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ Imóvel NÃO aceita financiamento habitacional.
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",18/09/2024 - 10h00,"80.795,29",0,291.89
+330,8444423327179.0,SP ,BOCAINA ,JARDIM SAO FRANCISCO ,"RUA DA SERIEMA, N. 202, LT 28  QD 07 ","153.500,00","153.500,00",0.0,"Casa, 0.00 de área total, 63.43 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444423327179,Casa,0.00,63.43,200.00,2,2,1," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",08/08/2024 - 10h00,"136.014,96",1,290.77
+332,8444428359117.0,SP ,BOITUVA ,RESIDENCIAL AGUA BRANCA ,"RUA MARIA LUIZA BETTINI CITRONI, N. 345, Apto 24, 2 PAV ","121.182,38","145.000,00",16.43,"Apartamento, 0.00 de área total, 25.97 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444428359117,Apartamento,0.00,25.97,0.00,1,1,0," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",01/08/2024 - 10h00,"121.182,38",1,136.42
+334,8444413962475.0,SP ,BOITUVA ,CENTRO ,"RUA MOACIR AMADEI, N. 490, LT 09  QD C ","152.000,00","152.000,00",0.0,"Casa, 0.00 de área total, 44.80 de área privativa, 160.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444413962475,Casa,0.00,44.80,160.00,2,1,1," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",08/08/2024 - 10h00,"103.008,34",1,136.42
+335,10187231.0,SP ,BOITUVA ,PORTAL VILLE AZALEIA ,"RUA JORGE MACRUZ, N. 00, QD 12, LT 08, ANTIGA RUA 12 ","386.095,00","386.095,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 427.71 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=10187231,Terreno,0.00,0.00,427.71,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ Imóvel NÃO aceita financiamento habitacional.
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",10/09/2024 - 10h00,"461.472,70",0,136.42
+336,10187235.0,SP ,BOITUVA ,PORTAL VILLE AZALEIA ,"RUA JORGE MACRUZ, N. 00, QD 12, LT 07, ANTIGA RUA 12 ","274.220,00","274.220,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 289.68 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=10187235,Terreno,0.00,0.00,289.68,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ Imóvel NÃO aceita financiamento habitacional.
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",10/09/2024 - 10h00,"324.688,05",0,136.42
+337,8444415429707.0,SP ,BOITUVA ,RESIDENCIAL AGUA BRANCA ,"RUA ELVIRA MARIA GHIRALDI BETTINI, N. 440, 0 ","265.509,89","265.509,89",0.0,"Casa, 56.45 de área total, 0.00 de área privativa, 160.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444415429707,Casa,56.45,0.00,160.00,2,0,1," Imóvel NÃO aceita utilização de FGTS.
+ FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",16/08/2024 - 10h00,"240.459,82",1,136.42
+338,8444425618502.0,SP ,BOITUVA ,RESIDENCIAL AGUA BRANCA ,"RUA  MOACIR AMADEI, N. SN, LT 13 QD O ","191.563,00","94.520,47",0.0,"Casa, 0.00 de área total, 60.00 de área privativa, 160.00 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444425618502,Casa,0.00,60.00,160.00,0,0,0," FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",23/08/2024 - 10h00,"93.069,68",1,136.42
+340,8444425658091.0,SP ,BORBOREMA ,CENTRO ,"RUA  MARNE MARCIEL TAVARES SILVA ANTIGA RUA UM, N. SN, LT 13 QD A ","48.000,00","48.000,00",0.0,"Terreno, 0.00 de área total, 0.00 de área privativa, 160.00 de área do terreno.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444425658091,Terreno,0.00,0.00,160.00,0,0,0," Imóvel NÃO aceita utilização de FGTS.
+ FINANCIAMENTO (consulte condições).
+Imóvel NÃO aceita parcelamento.
+Imóvel NÃO aceita consórcio.",23/08/2024 - 10h00,"59.791,37",1,379.67
 347,8444413421091.0,SP ,BOTUCATU ,PQ RES 24 DE MAIO ,"RUA ANTONIO MODOLO SOBRINHO, N. 56, LT 09 QD A ","167.000,00","167.000,00",0.0,"Casa, 0.00 de área total, 59.50 de área privativa, 125.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444413421091,Casa,0.00,59.50,125.00,2,1,1," FINANCIAMENTO (consulte condições).
 Imóvel NÃO aceita parcelamento.
 Imóvel NÃO aceita consórcio.",10/09/2024 - 10h00,"101.265,44",1,234.64
@@ -49,12 +107,6 @@ Imóvel NÃO aceita consórcio.",08/08/2024 - 10h00,"176.878,50",1,234.64
 Imóvel NÃO aceita parcelamento.
 Imóvel NÃO aceita consórcio.
  Existe área não averbada.",17/09/2024 - 10h00,"283.380,87",0,234.64
-364,1444405590965.0,SP ,BRODOWSKI ,CENTRO ,"RUA CYRILLO FIORI, N. 220, 0 ","303.587,84","440.000,00",31.01,"Casa, 0.00 de área total, 122.27 de área privativa, 572.00 de área do terreno,  2 qto(s), WC, WC Emp, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=1444405590965,Casa,0.00,122.27,572.00,2,1,1," FINANCIAMENTO (consulte condições).
-Imóvel NÃO aceita parcelamento.
-Imóvel NÃO aceita consórcio.",30/07/2024 - 10h00,"303.587,84",1,349.2
-370,8444412596254.0,SP ,CACAPAVA ,JARDIM PANORAMA ,"RUA AMILCAR CARLOTA ROMANO, N. 349, Apto 12, 0 ","115.996,99","159.000,00",27.05,"Apartamento, 0.00 de área total, 51.07 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444412596254,Apartamento,0.00,51.07,0.00,2,1,1," FINANCIAMENTO (consulte condições).
-Imóvel NÃO aceita parcelamento.
-Imóvel NÃO aceita consórcio.",30/07/2024 - 10h00,"115.996,99",1,114.31
 372,8444413502350.0,SP ,CACAPAVA ,RESIDENCIAL ALDEIAS DA SERRA ,"RUA VALDEVINO GUILHERME DE PAULA, N. 186, CS 28 ","175.000,00","175.000,00",0.0,"Casa, 0.00 de área total, 61.00 de área privativa, 91.14 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8444413502350,Casa,0.00,61.00,91.14,2,1,1," FINANCIAMENTO (consulte condições).
 Imóvel NÃO aceita parcelamento.
 Imóvel NÃO aceita consórcio.",15/08/2024 - 10h00,"127.257,35",1,114.31
@@ -153,9 +205,10 @@ Imóvel NÃO aceita consórcio.",16/09/2024 - 10h00,"138.015,02",1,108.98
 406,8555528035293.0,SP ,CAMPINAS ,VILA CAMPOS SALES ,"AVENIDA SAO JOSE DOS CAMPOS, N. 3053, Apto 203, BL D ","200.082,68","197.000,00",0.0,"Apartamento, 0.00 de área total, 45.02 de área privativa, 0.00 de área do terreno,  2 qto(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8555528035293,Apartamento,0.00,45.02,0.00,2,1,0," FINANCIAMENTO (consulte condições).
 Imóvel NÃO aceita parcelamento.
 Imóvel NÃO aceita consórcio.",10/09/2024 - 10h00,"183.024,94",1,108.98
-407,8555536563317.0,SP ,CAMPINAS ,JARDIM NOVO MARACANA ,"RUA EDIS PEDRO DE OLIVEIRA, N. 309, Apto 22, 1 ANDAR BLOCO C ","218.519,05","214.000,00",0.0,"Apartamento, 0.00 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8555536563317,Apartamento,0.00,47.44,0.00,2,1,1," FINANCIAMENTO (consulte condições).
+407,8555536563317.0,SP ,CAMPINAS ,JARDIM NOVO MARACANA ,"RUA EDIS PEDRO DE OLIVEIRA, N. 309, Apto 22, 1 ANDAR BLOCO C ","218.519,05","214.000,00",0.0,"Apartamento, 0.00 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8555536563317,Apartamento,0.00,47.44,0.00,2,1,1," Imóvel NÃO aceita utilização de FGTS.
+ Imóvel NÃO aceita financiamento habitacional.
 Imóvel NÃO aceita parcelamento.
-Imóvel NÃO aceita consórcio.",21/08/2024 - 10h00,"204.615,75",1,108.98
+Imóvel NÃO aceita consórcio.",21/08/2024 - 10h00,"204.615,75",0,108.98
 408,8787711715746.0,SP ,CAMPINAS ,PARQUE UNIVERSITARIO DE VIRACOPOS ,"RUA 2, N. 156, Apto 34, BL A ","191.829,07","186.000,00",0.0,"Apartamento, 0.00 de área total, 51.58 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",Leilão SFI - Edital Único,https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=8787711715746,Apartamento,0.00,51.58,0.00,2,0,1," FINANCIAMENTO (consulte condições).
 Imóvel NÃO aceita parcelamento.
 Imóvel NÃO aceita consórcio.",09/09/2024 - 10h00,"146.575,58",1,108.98

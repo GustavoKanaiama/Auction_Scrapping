@@ -19,6 +19,20 @@ start_time = time()
 
 # INICIO:: FUNÇÕES DE EXTRAÇÃO E INICIALIZAR
 
+def check_error(driver):
+
+    error_title1 = 'Ocorreu um erro ao tentar recuperar os dados do imóvel.\nO imóvel que você procura não está mais disponível para venda.'
+    error_title2 = 'O imóvel que você procura não está mais disponível para venda.'
+
+    #Check if the page shows the error title
+    check_error = driver.find_element(By.XPATH, '/html/body/div[1]/form/div/div/div/h5').text
+    
+    if (check_error == error_title1) or (check_error == error_title2):
+        return True
+    else:
+        return False
+
+
 def extrair_descricao(dataframe):
 
     #Extraindo 'Tipo de Lugar'
@@ -50,9 +64,6 @@ def escrever_descricaoExtra(df, num_linhas_inicio=0, num_linhas_final=5):
     #Como ainda esta em versao teste, usamos apenas o head(num_linhas) que vao ser adquiridas as informações
     # retorna 0 se funcionou e escreve um arquivo 'teste_imoveis.csv' como resultado da operação
     
-    error_title = 'Ocorreu um erro ao tentar recuperar os dados do imóvel.\nO imóvel que você procura não está mais disponível para venda.'
-
-
     sleep_time = [0.8, 0.7, 2, 1.3, 1.5, 1.7, 2.5, 3.1, 3.2]
     df_teste = df[num_linhas_inicio:num_linhas_final+1]
 
@@ -75,9 +86,7 @@ def escrever_descricaoExtra(df, num_linhas_inicio=0, num_linhas_final=5):
         sleep(choice(sleep_time)) #choose random sleep time
 
         #First Check if the site housing exists
-        check_error = driver.find_element(By.XPATH, '/html/body/div[1]/form/div/div/div/h5').text
-
-        if check_error == error_title: #True for Error
+        if check_error(driver=driver): #True for Error
             #Delete the Row
             df_teste = df_teste.drop(index)
 
@@ -145,7 +154,7 @@ df = df.where(df['Modalidade de venda'] == 'Leilão SFI - Edital Único').dropna
 
 
 df = extrair_descricao(df)
-df = escrever_descricaoExtra(df, num_linhas_inicio=250, num_linhas_final=300)
+df = escrever_descricaoExtra(df, num_linhas_inicio=228, num_linhas_final=300)
 
 #Inserindo a coluna 'Financiamento'
 df['Financiamento'] = df.apply(lambda x: 0 if len(re.findall("\S* \w* (?=financiamento)", x['Descrição Extra'])) != 0 else 1, axis=1)
